@@ -1,4 +1,4 @@
-package Test;
+package Problems;
 
 public class EvenNumAtEvenIndex {
 
